@@ -1,6 +1,6 @@
 # Alumno:______ ________
 
-# Verificar si una lista es Palindromo
+# Eliminar repetidos de una lista doblemente enlazada
 
 Implemente la función RemoveRepeats(), el cual recibe una lista doblemente enlazada como parámetro y elimina los datos repetidos de la lista. 
 
