@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    DoublyList* list = new DoublyList();
+    DoubleList* list = new DoubleList();
     push_back(list, 1);
     push_back(list, 2);
     push_back(list, 1);
